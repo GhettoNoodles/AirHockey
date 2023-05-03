@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cb5c26300f754aa45bf2efc1132f9d9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _puckPrefab: {fileID: 109340827786796898, guid: f71e862121cf939489caf25eb3f50ae6, type: 3}
+  - _enemyPrefab: {fileID: 2902871121709698502, guid: 53d50e79202ec4e43b605ec500a68d72, type: 3}
+  - _playerPrefab: {fileID: -101878748609258822, guid: ba6ae1b3324d6eb46bc70fd3ff13daaf, type: 3}
+  - _PscoreText: {instanceID: 0}
+  - _EscoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
